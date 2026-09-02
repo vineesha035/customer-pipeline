@@ -1,11 +1,5 @@
 # CDP Prototype with ELT Pipeline & Fuzzy Identity Matching
 
-## Demo
-#### Demo:
-https://drive.google.com/file/d/1KXuO464gLm-4loAak89OiyyTV28J6xAr/view?usp=sharing
-
-#### Stress Test : 
-https://drive.google.com/file/d/1joVy_a9YGhhwKU-NqN49mpYgCsNoyOeY/view?usp=sharing
 ## Architecture Overview
 
 ### Project Overview
